@@ -4,7 +4,6 @@ body{
     background-size: cover;
     backdrop-filter: blur(4px);
     padding: 0%;
-    font-family: cursive;
     color: black;
 }
 input{
@@ -15,7 +14,6 @@ input{
     height: 60px;
     margin: 4px;
     color: white;
-    font-family: cursive;
     font-size: large;
 
 }
