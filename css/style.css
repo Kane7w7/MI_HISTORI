@@ -5,6 +5,7 @@ body{
     backdrop-filter: blur(4px);
     padding: 0%;
     color: black;
+    font-family: comic sans;
 }
 input{
     background-color: black;
@@ -15,5 +16,5 @@ input{
     margin: 4px;
     color: white;
     font-size: large;
-
+    font-family: comic sans;
 }
